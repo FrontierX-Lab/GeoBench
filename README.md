@@ -5,7 +5,7 @@
     <a href="https://huggingface.co/datasets/xp0123/GeoBench">🤗Data</a>
   </p> -->
   <br>
-  <img width="95%" src=./assets/teaser.png>
+  <img width="95%" src=./assets/Overview.png>
 </div>
 
 
